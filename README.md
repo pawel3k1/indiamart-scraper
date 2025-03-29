@@ -2,7 +2,7 @@
 Scraper for https://indiamart.com/ written in python
 
 
-# Configuration
+## Configuration
 
 ```
 SEARCH_QUERY = "Acetone"  # Change this to search query you want to search for
@@ -18,7 +18,7 @@ CHROME_BINARY_PATH = "C:/Program Files/Google/Chrome/Application/chrome.exe"
 ```
 
 
-Install requirements
+## Install requirements
 
 ```
 pip install selenium
