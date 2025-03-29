@@ -23,3 +23,6 @@ CHROME_BINARY_PATH = "C:/Program Files/Google/Chrome/Application/chrome.exe"
 ```
 pip install selenium
 ```
+
+
+### I made this fully for fun as a discord bot and maybe for python portfolio, if you'd like to do rewrite in rust then u can :) but you can give credit if you want
