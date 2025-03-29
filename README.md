@@ -16,3 +16,10 @@ CHROME_DRIVER_PATH = "C:/chromedriver/chromedriver.exe"
 ```
 CHROME_BINARY_PATH = "C:/Program Files/Google/Chrome/Application/chrome.exe"
 ```
+
+
+Install requirements
+
+```
+pip install selenium
+```
